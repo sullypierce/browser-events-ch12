@@ -1,0 +1,17 @@
+.artContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+article div {
+    width: 50%;
+}
+
+.artOne {
+    border: 1px solid black;
+}
+
+.artTwo {
+    border: 1px solid blue;
+}
